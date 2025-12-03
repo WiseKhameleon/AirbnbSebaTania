@@ -1,4 +1,4 @@
-Copié todo el código, pero en verdad deberia ser un Index para entrar en Español o Inglés.
+<!--Copié todo el código, pero en verdad deberia ser un Index para entrar en Español o Inglés-->
 
 
 <!DOCTYPE html>
